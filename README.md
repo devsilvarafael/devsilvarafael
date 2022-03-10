@@ -1,6 +1,8 @@
 ### Hi, I'm Rafael Silva.
 
-<img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-4296.jpg?w=740" height="300px" />
+<p align="center">
+ <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-4296.jpg?w=740" height="300px" />
+</p>
 
 ### 📖 About Me
 <p>Hi, I'm Rafael Silva a front-end developer from 🇧🇷 Brazil.</p>
