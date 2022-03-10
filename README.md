@@ -8,7 +8,7 @@
 <p>Hi, I'm Rafael Silva a front-end developer from 🇧🇷 Brazil.</p>
 
 ### 💻 Techs
- <p>Currently these are the technologies that I am most aware of.</p>
+ <p>Currently these are the technologies that I know most.</p>
 <p>
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/html-5.svg" width="50px" height="60px"/>
   <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/css-3.svg" width="50px" height="60px" />
