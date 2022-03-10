@@ -5,7 +5,7 @@
 </p>
 
 ### 📖 About Me
-<p>Hi, I'm Rafael Silva a front-end developer from 🇧🇷 Brazil.</p>
+<p>Hi, I'm Rafael Silva a front-end developer.</p>
 
 ### 💻 Techs
  <p>Currently these are the technologies that I know most.</p>
