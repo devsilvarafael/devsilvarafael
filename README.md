@@ -3,6 +3,8 @@
 ### 📖 About Me
 <p>Hi, I'm Rafael Silva a front-end developer. I love talking about programming, and discover new things.</p>
 
+<a href="https://www.linkedin.com/in/devsilva-rafael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+
 ### 💻 Techs
  <p>Currently these are the technologies that I know most.</p>
 <p>
