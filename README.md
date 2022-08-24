@@ -24,10 +24,3 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 
 </p>
-
-### ℹ️ My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsilvarafael&show_icons=true&theme=dracula&cache_seconds=1800&border_radius=10" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsilvarafael&show_icons=true&layout=compact&theme=dracula" height="180em" />
-</p>
