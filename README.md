@@ -1,26 +1,94 @@
-# Hello World! I'm Rafael Silva.
+## This code is running now...
 
-### 📖 About Me
-<p>Hi, I'm Rafael Silva a front-end developer. I love talking about programming, and discover new things.</p>
+![banner-rafael-silva-react-front-end](https://user-images.githubusercontent.com/81942196/213014226-6bf8cc65-8edc-43f7-8acd-b2f901c99b18.jpg)
 
-<a href="https://www.linkedin.com/in/devsilva-rafael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-
-### 💻 Techs
- <p>Currently these are the technologies that I know most.</p>
-<p>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="nextjs" />
-  <img src="https://camo.githubusercontent.com/10065c2726119b2c382c3f817ff3f7d42ca0f8e19f5aed2c52d931d85ab12795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7a757374616e642d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="zustand" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router-dom" />
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="testing-library" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-
+<p align="center">
+ My name is Rafael, a software engineering with a passion for web development. I like to belive that programming is my super power, and with him I want to change the world some day. In each personal or professional projects I try to give my best to build a scalable, and maintainable web applications. Problems and challenges are my motivations to constantly learn new technologies and another things. 
 </p>
+
+##
+
+<br>
+
+### 🙋🏻‍♂️ About me
+
+- 🖊 I'm currently learning **React patterns, accessibility and clean code**. 
+
+- 📩 E-mail me: **devsilva.rafael@gmail.com**.
+
+- 👨🏻‍💻 I'm looking to collaborate on **Developing new open-source projects**.
+
+- 🤝 I can help you with **HTML, CSS an ReactJS**.
+
+
+##
+
+<br>
+
+### 📍 Goals
+
+- Continue to improve my **ReactJS knowledges and front-end skills generally**.
+
+- Learn about **Node.js** or **Java** (I have a crush on him).
+
+- Develop a **special project** that I planned.
+
+##
+
+<br>
+
+<h2 align="center">⚒ Technologies and Tools</h2>
+
+<details open>
+<summary><b>❣️ Front-end</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔹 Back-end</b></summary>
+<br>
+ 
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+</details>
+
+
+<details open>
+<summary><b>🗄 Database</b></summary>
+<br>
+  
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+</details>
+
+
+<details open>
+<summary><b>🧩 Testing Tools</b></summary>
+<br>
+ 
+ ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+ ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
+
+</details>
+
+<details open>
+<summary><b>🎳 Software and Tools</b></summary>
+<br>
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+</details>
