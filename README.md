@@ -18,8 +18,7 @@
 
 - 👨🏻‍💻 I'm looking to collaborate on **Developing new open-source projects**.
 
-- 🤝 I can help you with **HTML, CSS an ReactJS**.
-
+- 🤝 I can help you with **HTML**, **CSS** and **ReactJS**.
 
 ##
 
