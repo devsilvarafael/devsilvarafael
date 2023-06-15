@@ -12,15 +12,13 @@
 
 ### 🙋🏻‍♂️ About me
 
-- 💼 I'm currently open to new opportunities as Front-End Developer.
-
-- 🖊 I'm currently learning **React patterns, accessibility and clean code**. 
+- 🖊 I'm currently learning **backend with Java and SpringBoot**. 
 
 - 📩 How to reach me: **devsilva.rafael@gmail.com**.
 
 - 👨🏻‍💻 I'm looking to collaborate on **Developing new open-source projects**.
 
-- 🤝 I can help you with **HTML**, **CSS** and **ReactJS**.
+- 🤝 I can help you with **HTML**, **CSS**, **ReactJS** and **TypeScript**.
 
 ##
 
