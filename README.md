@@ -3,7 +3,7 @@
 ![banner-rafael-silva-react-front-end](https://user-images.githubusercontent.com/81942196/213014226-6bf8cc65-8edc-43f7-8acd-b2f901c99b18.jpg)
 
 <p align="center">
- My name is Rafael, a software engineering with a passion for web development. I like to belive that programming is my super power, and with him I want to change the world some day. In each personal or professional projects I try to give my best to build a scalable, and maintainable web applications. Problems and challenges are my motivations to constantly learn new technologies and another things. 
+ Greetings! I'm Rafael, a seasoned software engineer fueled by a profound passion for web development, boasting over two years of hands-on experience in the field. For me, programming isn't just a skill — it's a superpower that holds the potential to reshape the world for the better. Problems and challenges are my motivations to constantly learn new technologies and improve myself. 
 </p>
 
 ##
@@ -12,7 +12,7 @@
 
 ### 🙋🏻‍♂️ About me
 
-- 🖊 I'm currently learning **backend with Java and SpringBoot**. 
+- 🖊 I'm currently learning **front-end architectures and caching**. 
 
 - 📩 How to reach me: **devsilva.rafael@gmail.com**.
 
